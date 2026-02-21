@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #4e73df, #1cc88a);
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 50px 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.2);
+    margin: 20px auto;
+    padding: 20px;
+    width: 70%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 14px;
+}
